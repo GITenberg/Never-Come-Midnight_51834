@@ -1,0 +1,39 @@
+_repo: Never-Come-Midnight_51834
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Dillon, Diane
+    alias: Dillon, Diane Claire Sorber
+    birthdate: &id001 1933
+    gutenberg_agent_id: '32729'
+    url: http://www.gutenberg.org/2009/agents/32729
+  - agent_name: Dillon, Leo
+    birthdate: *id001
+    deathdate: 2012
+    gutenberg_agent_id: '32728'
+    url: http://www.gutenberg.org/2009/agents/32728
+creator:
+  author:
+    agent_name: Gold, H. L. (Horace Leonard)
+    alias: Gold, Horace Leonard
+    birthdate: 1914
+    deathdate: 1996
+    gutenberg_agent_id: '35538'
+    url: http://www.gutenberg.org/2009/agents/35538
+    wikipedia: http://en.wikipedia.org/wiki/H._L._Gold
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: Never Come Midnight
+url: http://www.gutenberg.org/ebooks/51834
